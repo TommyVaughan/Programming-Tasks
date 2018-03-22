@@ -1,5 +1,5 @@
 # Programming-Tasks
-![](
+![](UnderPressure.jpg)
 ### List of programming exercises completed for Programming and Scripting (Python) module 2018.
 #### In the Exercise folder, you will find:
 ##### Week 2 exercise is on fib2.py
